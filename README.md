@@ -15,6 +15,6 @@ The project "Kaiture-Agriculture-Business-Reports-with-Power-BI" focuses on util
 <H3 align="center">
   Tools Used<br><br>
   <a href=#>
-    <img src="https://img.shields.io/badge/Made%20with-lightgrey?style=for-the-badge" alt="Made with"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Made with Power BI">
+    <img src="https://img.shields.io/badge/Made%20with-grey?style=for-the-badge" alt="Made with"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Made with Power BI">
   </a>
 </H3>
